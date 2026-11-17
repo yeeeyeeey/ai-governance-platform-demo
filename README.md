@@ -58,6 +58,10 @@
 
 ![健檢報告中的舊版 SOP 風險、建議與引用](docs/screenshots/knowledge-health-report.png)
 
+風險詳情呈現知識衝突的判斷依據、改善建議與文件引用，便於對照原文。
+
+![健檢報告中的知識衝突風險、建議與引用](docs/screenshots/knowledge-health-report-2.png)
+
 <details>
 <summary>其他操作畫面</summary>
 
